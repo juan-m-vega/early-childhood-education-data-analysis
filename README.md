@@ -16,4 +16,4 @@ The data also demonstrated that this program benefited its participants served i
 
 ![school-readiness-outcomes](./assets/school-readiness-outcomes.jpeg)
 
-Overall, this early childhood education program served an increasing diverse population and met an increasing demand of quality child care services, while also supporting young children in developing healthy lifes.
+Overall, this early childhood education program served an increasing diverse population and met an increasing demand of quality child care services, while also supporting young children in developing healthy lifes. To execute this project, [the `early-childhood-education-data-analysis.R` script](https://github.com/juan-m-vega/early-childhood-education-data-analysis/blob/main/early-childhood-education-data-analysis.R) was created to generate these visualizations and Shiny Dashboard. 
